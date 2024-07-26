@@ -1,0 +1,41 @@
+h1{
+	color: black;
+	font-size: 75px;
+	text-align: center;
+}
+
+body{
+	background-color: lightpink;
+	font-family: sans-serif;
+}
+
+ul{
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+	position: relative;
+	top: 0;
+	background-color: Black;
+}
+
+li{
+	float: left;
+}
+
+li a{
+	float: left;
+	text-align: center;
+	padding: 20px;
+	color: pink;
+	font-size: 30px;
+}
+
+li a:hover{
+	color: lightpink;
+	background-color: white;
+}
+
+img.social:hover{
+	opacity: .50;
+}
